@@ -8,7 +8,7 @@ import javax.swing.*;
  * Minimal Java Swing application.
  * 
  * @author Nathan Sprague
- * 
+ * @version OH MY GOD WHAT IS GIT 
  */
 public class GUIDemo extends JFrame
 {
